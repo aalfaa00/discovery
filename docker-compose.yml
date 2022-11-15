@@ -1,0 +1,7 @@
+version: "3"
+services:
+  discovery:
+    image: zeromaxinc/discovery:latest
+    ports:
+      - 8888:8888
+
